@@ -15,25 +15,18 @@
 
 ## 👨‍💻 About Me
 
-```python
-class SaiCharanReddy:
-    def __init__(self):
-        self.name       = "Ariga Sai Charan Reddy"
-        self.degree     = "B.Tech CSE (AI & ML) — VIT-AP University (2022–2026)"
-        self.cgpa       = 7.51
-        self.location   = "Amaravati, Andhra Pradesh, India"
-        self.email      = "arigasaicharan@gmail.com"
-        self.focus      = ["Machine Learning", "Generative AI", "RAG Systems", "Computer Vision"]
-        self.internship = "Wipro-Accredited AI Intern — Top 10% cohort | LoR awarded"
-        self.published  = "10th International Halich Congress, Istanbul 2026"
-        self.status     = "🟢 Actively seeking ML / AI / Data Science roles"
+| | |
+|---|---|
+| 🎓 **Degree** | B.Tech CSE (AI & ML) — VIT-AP University (2022–2026) |
+| 📊 **CGPA** | 7.51 |
+| 📍 **Location** | Amaravati, Andhra Pradesh, India |
+| 📧 **Email** | arigasaicharan@gmail.com |
+| 🔭 **Focus** | Machine Learning · Generative AI · RAG Systems · Computer Vision |
+| 🏅 **Internship** | Wipro-Accredited AI Intern — Top 10% cohort · LoR awarded |
+| 📄 **Research** | Presented at 10th International Halich Congress, Istanbul 2026 |
+| 🟢 **Status** | Actively seeking ML / AI / Data Science roles |
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together.")
-
-me = SaiCharanReddy()
-me.say_hi()
-```
+> *"Thanks for visiting! Let's build something intelligent together."*
 
 ---
 
@@ -96,7 +89,7 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-### 🤖 [SmartCareerForge – AI Career Guidance Platform](https://github.com/arigasaicharanreddy) &nbsp; ![Live](https://img.shields.io/badge/Live-App-brightgreen?style=flat-square)
+### 🤖 [SmartCareerForge – AI Career Guidance Platform](https://github.com/arigasaicharanreddy)
 > *Python · Streamlit · LangChain · RAG · LangSmith · ChromaDB · Docker · SQLite*
 
 - Architected a **15-module AI platform** — resume scoring, ATS analysis, skill-gap detection, AI cover letter generation
@@ -106,13 +99,13 @@ me.say_hi()
 
 ---
 
-### 🦠 [COVID-19 Infant Growth Analysis & Prediction](https://github.com/arigasaicharanreddy/Covid---19-Infant-Growth-Analysis-and-Prediction) &nbsp; ![Published](https://img.shields.io/badge/Published-Istanbul_2026-blue?style=flat-square)
+### 🦠 [COVID-19 Infant Growth Analysis & Prediction](https://github.com/arigasaicharanreddy/Covid---19-Infant-Growth-Analysis-and-Prediction) &nbsp; ![Conference](https://img.shields.io/badge/Conference-Istanbul_2026-blue?style=flat-square)
 > *Python · scikit-learn · HistGradientBoosting · XGBoost · Flask · Pandas*
 
 - Synthesised a **12,000-record** dataset from 15+ peer-reviewed research studies
 - Achieved **99.54% accuracy** with HistGradientBoosting; identified speech score as top predictor via XGBoost
 - Deployed Flask web app with **sub-200ms** real-time prediction response time
-- 📄 **Published:** 10th International Halich Congress on Multidisciplinary Scientific Research, Istanbul 2026
+- 📄 **Presented at:** 10th International Halich Congress on Multidisciplinary Scientific Research, Istanbul 2026
 
 ---
 
@@ -152,21 +145,8 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arigasaicharanreddy&theme=github-dark-blue&hide_border=true" width="56%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arigasaicharanreddy&theme=github-dark-blue&hide_border=true" width="60%" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=arigasaicharanreddy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arigasaicharanreddy&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arigasaicharanreddy&theme=algolia&no-frame=true&row=1&column=7" />
 </div>
 
 ---
