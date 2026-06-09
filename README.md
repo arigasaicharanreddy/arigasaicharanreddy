@@ -18,7 +18,7 @@
 | | |
 |---|---|
 | 🎓 **Degree** | B.Tech CSE (AI & ML) — VIT-AP University (2022–2026) |
-| 📊 **CGPA** | 7.51 |
+| 📊 **CGPA** | 7.42 |
 | 📍 **Location** | Amaravati, Andhra Pradesh, India |
 | 📧 **Email** | arigasaicharan@gmail.com |
 | 🔭 **Focus** | Machine Learning · Generative AI · RAG Systems · Computer Vision |
