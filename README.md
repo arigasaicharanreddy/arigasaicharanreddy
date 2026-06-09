@@ -3,7 +3,7 @@
 <h3 align="center">🤖 ML & AI Enthusiast | Deep Learning | Computer Vision | Data Science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Fresher+%7C+Open+to+Opportunities;ML+%26+AI+Project+Builder;Deep+Learning+Practitioner;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Fresher+%7C+Open+to+Opportunities;ML+%26+AI+Project+Builder;Deep+Learning+Practitioner;Always+Learning+Something+New+🚀" alt="!Typing SVG" />
 </p>
 
 ---
