@@ -1,25 +1,31 @@
-<h1 align="center">Ariga Sai Charan Reddy</h1>
-<p align="center">B.Tech CSE (AI &amp; ML) · VIT-AP University · Amaravati, India</p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢_Open_to_Work-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML_%7C_GenAI_%7C_RAG-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Top_10%25_Wipro_AI_Intern-00C7B7?style=for-the-badge" />
+  <img src="github-banner.svg" alt="Ariga Sai Charan Reddy — AI/ML Engineer" width="100%" />
 </p>
 
----
+<br/>
 
 ## 🧑‍💻 About Me
 
-| | | | |
-|---|---|---|---|
-| 🎓 **Degree** | B.Tech CSE (AI & ML), CGPA 7.51 | 📍 **Location** | Amaravati, Andhra Pradesh |
-| ⚡ **Intern** | Wipro AI Intern — Top 10% · LoR | 🔬 **Research** | Presented at Halich Congress, Istanbul 2026 |
-| 🎯 **Focus** | ML · GenAI · RAG · Computer Vision | 📧 **Email** | arigasaicharan@gmail.com |
+<table>
+<tr>
+<td>🎓 <strong>Degree</strong></td>
+<td>B.Tech CSE (AI & ML) &nbsp;·&nbsp; CGPA 7.51</td>
+<td>📍 <strong>Location</strong></td>
+<td>Amaravati, Andhra Pradesh</td>
+</tr>
+<tr>
+<td>⚡ <strong>Intern</strong></td>
+<td>Wipro AI Intern — Top 10% · LoR</td>
+<td>🔬 <strong>Research</strong></td>
+<td>Presented at Halich Congress, Istanbul 2026</td>
+</tr>
+<tr>
+<td>🎯 <strong>Focus</strong></td>
+<td>ML · GenAI · RAG · Computer Vision</td>
+<td>📧 <strong>Email</strong></td>
+<td>arigasaicharan@gmail.com</td>
+</tr>
+</table>
 
 ---
 
@@ -69,7 +75,7 @@
 ## 💼 Experience
 
 ### Wipro-Accredited AI Intern &nbsp; `Top 10%`
-**Edu-versity / AMG Technologies LLP** · Aug 2025 – Oct 2025
+**Edu-versity / AMG Technologies LLP** &nbsp;·&nbsp; Aug 2025 – Oct 2025
 
 - Engineered end-to-end ML pipelines across 3 projects — reduced evaluation turnaround by **~30%**
 - Delivered **100%** of milestones with a cross-functional team of 5 mentors
@@ -79,7 +85,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [SmartCareerForge — AI Career Guidance Platform](https://github.com/arigasaicharan)
+### 🤖 SmartCareerForge — AI Career Guidance Platform
 `Python` `Streamlit` `LangChain` `RAG` `LangSmith` `ChromaDB` `Docker` `SQLite`
 
 - 15-module AI platform — resume scoring, ATS analysis, skill-gap detection, cover letter generation
@@ -107,33 +113,45 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arigasaicharan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arigasaicharan&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arigasaicharan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9C0&icon_color=00D9C0&text_color=8B949E&ring_color=00D9C0" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arigasaicharan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9C0&text_color=8B949E" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arigasaicharan&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arigasaicharan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9C0&fire=F5A623&currStreakLabel=00D9C0&sideLabels=8B949E&dates=6E7681" />
 </p>
 
+<br/>
+
+<div align="center">
+
 | Metric | Value |
-|---|---|
+|:---|:---|
 | 📝 Total Contributions (Jun 2025 – Present) | **172** |
 | 📁 Public Repositories (All ML / AI) | **7** |
 | 🔥 Longest Streak | **4 days** (Jul 1 – Jul 4, 2025) |
+
+</div>
 
 ---
 
 ## 🏆 Certifications
 
+<div align="center">
+
 | Badge | Certification | Year |
-|---|---|---|
+|:---:|:---|:---:|
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | AWS Certified AI Practitioner | 2025 |
 | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | Oracle Generative AI Professional | 2025 |
 | ![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square) | Deloitte Australia — Data Analytics Job Simulation | 2026 |
 
+</div>
+
 ---
 
+<br/>
+
 <p align="center">
-  🚀 Open to <strong>ML / AI / Data Science</strong> opportunities · Let's connect!<br><br>
+  🚀 Open to <strong>ML / AI / Data Science</strong> opportunities · Let's connect!<br/><br/>
   💡 <em>"Build things. Break things. Learn fast. Ship faster."</em>
 </p>
