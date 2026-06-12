@@ -1,5 +1,3 @@
-# Ariga Sai Charan Reddy GitHub Profile README
-
 <p align="center">
   <img src="github-banner.svg" alt="Ariga Sai Charan Reddy" width="100%" />
 </p>
@@ -14,121 +12,69 @@ AI/ML Engineer • Generative AI & RAG Developer • Research Presenter
   <a href="mailto:arigasaicharan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://linkedin.com/in/arigasaicharan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/arigasaicharanreddy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00D9C0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG%20Systems-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-E11D48?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20GenAI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wipro%20Accredited%20AI%20Intern-341C53?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a final-year Computer Science Engineering (AI & ML) student at **VIT-AP University** with hands-on experience in:
+Final-year B.Tech Computer Science Engineering (AI & ML) student at **VIT-AP University** with practical experience in Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), NLP, and Computer Vision.
 
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- NLP
-- Computer Vision
+I enjoy building production-ready AI systems, intelligent automation solutions, and scalable machine learning applications that solve real-world problems.
 
-I enjoy building production-ready AI systems, intelligent automation solutions, and scalable machine learning applications.
+### Quick Highlights
 
-### Highlights
-
-- 🎓 B.Tech CSE (AI & ML), VIT-AP University
-- 📍 Amaravati, Andhra Pradesh, India
-- 🥇 Wipro-Accredited AI Intern (via Edu-versity / AMG Technologies LLP)
-- 🏆 AWS Certified AI Practitioner
-- 🏆 Oracle Generative AI Professional
-- 🎤 Research Presenter — Halich Congress, Istanbul, Türkiye (2026)
-- 📧 arigasaicharan@gmail.com
+* 🎓 B.Tech CSE (AI & ML), VIT-AP University (2022–2026)
+* 🥇 Wipro-Accredited AI Intern (via Edu-versity / AMG Technologies LLP)
+* 🏆 Ranked in Top 10% of Internship Cohort
+* 📜 Awarded Letter of Recommendation
+* 🎤 Research Presenter — Halich Congress, Istanbul, Türkiye (2026)
+* ☁️ AWS Certified AI Practitioner
+* 🤖 Oracle Generative AI Professional
+* 📍 Amaravati, Andhra Pradesh, India
 
 ---
 
 ## 📊 Recruiter Snapshot
 
-| Category | Details |
-|-----------|-----------|
-| Degree | B.Tech CSE (AI & ML) |
-| University | VIT-AP University |
-| Graduation | 2026 |
-| Internship | Wipro-Accredited AI Intern |
-| Research | International Research Presenter |
-| Projects | 10+ AI/ML Projects |
-| Certifications | AWS AI Practitioner, Oracle GenAI |
-| Expertise | ML, DL, GenAI, RAG, NLP, CV |
-| Deployment | Docker, AWS, FastAPI, Flask, Streamlit |
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Machine Learning & Deep Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0052CC?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### Generative AI & RAG
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C8C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C8C?style=flat-square)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C8C?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![BERT](https://img.shields.io/badge/BERT-4B0082?style=flat-square)
-
-### Data Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-### Deployment & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+| Metric                | Value                                  |
+| --------------------- | -------------------------------------- |
+| Education             | B.Tech CSE (AI & ML), VIT-AP           |
+| Graduation            | 2026                                   |
+| AI/ML Projects        | 10+                                    |
+| Research Presentation | International Conference               |
+| Internship            | Wipro-Accredited AI Intern             |
+| Certifications        | AWS AI Practitioner, Oracle GenAI      |
+| Expertise             | ML, DL, GenAI, RAG, NLP, CV            |
+| Deployment            | AWS, Docker, FastAPI, Flask, Streamlit |
 
 ---
 
 ## 💼 Experience
 
 ### 🏆 Wipro-Accredited AI Intern
-**Edu-versity / AMG Technologies LLP**  
+
+**Edu-versity / AMG Technologies LLP**
 **Aug 2025 – Oct 2025**
 
-- Engineered end-to-end ML pipelines across 3 AI projects.
-- Reduced model evaluation turnaround time by approximately 30%.
-- Collaborated with mentors and industry experts to deliver project milestones.
-- Ranked among the Top 10% of interns.
-- Awarded a Letter of Recommendation for exceptional performance.
-- Applied best practices in model development, evaluation, and deployment.
+* Engineered end-to-end ML pipelines across 3 AI projects covering preprocessing, model development, hyperparameter tuning, and deployment.
+* Reduced model evaluation turnaround time by approximately 30%.
+* Collaborated with mentors and industry experts to successfully deliver project milestones.
+* Ranked among the Top 10% of interns.
+* Received a Letter of Recommendation for exceptional performance.
+* Applied best practices for experimentation, evaluation, and deployment workflows.
 
 ---
 
@@ -136,69 +82,65 @@ I enjoy building production-ready AI systems, intelligent automation solutions, 
 
 ### 🤖 SmartCareerForge — AI Career Intelligence Platform
 
-**Tech Stack:** Python, Streamlit, LangChain, ChromaDB, LangSmith, Docker, SQLite
+**Tech Stack:** Python • Streamlit • LangChain • ChromaDB • LangSmith • Docker • SQLite
 
-#### Key Achievements
+#### Impact
 
-- Built a 15-module AI-powered career guidance platform.
-- Resume scoring and ATS compatibility analysis.
-- Skill-gap analysis and roadmap generation.
-- AI-powered cover letter generation.
-- Dual RAG architecture for career guidance and resume intelligence.
-- Semantic skill matching across 60+ mapped skills.
-- Live job recommendations using Adzuna API.
-- Full deployment using Docker and Streamlit Cloud.
+* Developed a 15-module AI-powered career guidance platform.
+* Implemented ATS resume scoring and intelligent skill-gap analysis.
+* Built Dual RAG architecture using LangChain and ChromaDB.
+* Created semantic skill matching across 60+ mapped skills.
+* Integrated Adzuna API for live job recommendations.
+* Achieved complete LLM observability using LangSmith tracing.
+* Deployed using Docker and Streamlit Community Cloud.
 
 ---
 
 ### 💉 COVID-19 Infant Growth Analysis & Prediction
 
-**Research Presentation:** Halich Congress, Istanbul, Türkiye (2026)
+**Presented at Halich Congress, Istanbul, Türkiye (2026)**
 
-**Tech Stack:** Python, Flask, HistGradientBoosting, XGBoost, Pandas, NumPy
+**Tech Stack:** Python • Flask • HistGradientBoosting • XGBoost • Pandas • NumPy
 
-#### Key Achievements
+#### Impact
 
-- Built a 12,000-record developmental dataset from 15+ peer-reviewed studies.
-- Developed an end-to-end machine learning pipeline.
-- Achieved 99.54% prediction accuracy.
-- Conducted feature importance analysis using XGBoost.
-- Developed a Flask-based prediction application with real-time inference.
+* Created a 12,000-record developmental dataset using 15+ peer-reviewed research studies.
+* Built a complete machine learning pipeline with advanced preprocessing.
+* Achieved 99.54% prediction accuracy.
+* Performed feature importance analysis using XGBoost.
+* Developed a Flask-based real-time prediction system.
 
 ---
 
 ### 🔍 Crime Vision Classification System
 
-**Tech Stack:** TensorFlow, Keras, OpenCV, Flask
+* Crime image classification using DenseNet121 Transfer Learning.
+* Deep learning-based automated crime category prediction.
+* Flask-powered deployment interface.
 
-- DenseNet121 transfer learning architecture.
-- Crime image classification.
-- Interactive prediction dashboard.
-- Deep learning workflow optimization.
+**Tech:** TensorFlow • Keras • OpenCV • Flask
 
 ---
 
 ### 😶 Face Recognition System
 
-**Tech Stack:** Python, OpenCV, Scikit-Learn
+* PCA + ANN face recognition pipeline.
+* Automated identity prediction and classification.
 
-- PCA + ANN recognition pipeline.
-- Automated identity prediction.
-- Feature extraction and classification workflow.
+**Tech:** Python • OpenCV • Scikit-Learn
 
 ---
 
 ### 🫁 Chest X-Ray Disease Detection
 
-**Tech Stack:** TensorFlow, Keras, OpenCV
+* CNN-based disease classification from chest X-rays.
+* Automated medical image analysis and prediction.
 
-- CNN-based disease classification.
-- Medical image analysis.
-- Automated prediction system.
+**Tech:** TensorFlow • Keras • OpenCV
 
 ---
 
-## 📚 Research & Publications
+## 📚 Research
 
 ### COVID-19 Pandemic Impact on Infant Developmental Growth
 
@@ -206,48 +148,50 @@ I enjoy building production-ready AI systems, intelligent automation solutions, 
 
 📅 Istanbul, Türkiye — 2026
 
-- Presented research on infant developmental changes before, during, and after COVID-19.
-- Built predictive machine learning models using synthesized longitudinal datasets.
-- Conducted comparative analysis across developmental indicators.
-- Demonstrated the application of machine learning in developmental health studies.
+* Presented research on developmental changes in infants before, during, and after COVID-19.
+* Built predictive machine learning models using synthesized datasets.
+* Conducted comparative analysis across developmental indicators.
+* Demonstrated the use of AI-driven analytics in developmental health research.
+
+---
+
+## 🛠️ Core Technologies
+
+**Languages:** Python, R, SQL
+
+**Machine Learning:** Scikit-Learn, TensorFlow, Keras, XGBoost
+
+**Generative AI:** LangChain, LangGraph, LangSmith, Prompt Engineering
+
+**RAG:** Traditional RAG, Agentic RAG, Multimodal RAG, ChromaDB
+
+**NLP:** BERT, NLTK, Word Embeddings, Text Classification
+
+**Deployment:** Docker, AWS, FastAPI, Flask, Streamlit
+
+**Analytics:** Pandas, NumPy, Power BI, Tableau
 
 ---
 
 ## 🏆 Certifications
 
-| Certification | Year |
-|---------------|------|
-| AWS Certified AI Practitioner | 2025 |
-| Oracle Generative AI Professional | 2025 |
-| Deloitte Australia Data Analytics Job Simulation | 2026 |
+* AWS Certified AI Practitioner (2025)
+* Oracle Generative AI Professional (2025)
+* Deloitte Australia Data Analytics Job Simulation (2026)
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arigasaicharanreddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arigasaicharanreddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arigasaicharanreddy&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arigasaicharanreddy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arigasaicharanreddy&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arigasaicharanreddy&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🎯 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems
-- Natural Language Processing
-- Computer Vision
-- Data Science
 
 ---
 
@@ -255,20 +199,15 @@ I enjoy building production-ready AI systems, intelligent automation solutions, 
 
 I am actively seeking opportunities in:
 
-- Artificial Intelligence
-- Machine Learning Engineering
-- Generative AI Engineering
-- Data Science
-- Computer Vision
-- AI Research
+* Artificial Intelligence
+* Machine Learning Engineering
+* Generative AI
+* Data Science
+* Computer Vision
+* AI Research
 
 ---
 
 <p align="center">
 💡 <b>Building intelligent systems that solve real-world problems through AI, data, and innovation.</b>
 </p>
-
-<p align="center">
-⭐ If you find my work useful, consider starring my repositories.
-</p>
-```
