@@ -1,6 +1,5 @@
 # Ariga Sai Charan Reddy GitHub Profile README
 
-```md
 <p align="center">
   <img src="github-banner.svg" alt="Ariga Sai Charan Reddy" width="100%" />
 </p>
