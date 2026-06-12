@@ -1,43 +1,87 @@
+# Full GitHub README (Recruiter-Focused Dark Theme)
+
+```markdown
 <p align="center">
-  <img src="github-banner.svg" alt="Ariga Sai Charan Reddy — AI/ML Engineer" width="100%" />
+  <img src="github-banner.svg" alt="Ariga Sai Charan Reddy" width="100%" />
 </p>
 
-<br/>
+<h1 align="center">Ariga Sai Charan Reddy</h1>
 
-## 🧑‍💻 About Me
+<h3 align="center">
+AI/ML Engineer • Generative AI & RAG Developer • Research Presenter
+</h3>
 
-<table>
-<tr>
-<td>🎓 <strong>Degree</strong></td>
-<td>B.Tech CSE (AI & ML) &nbsp;·&nbsp; CGPA 7.51</td>
-<td>📍 <strong>Location</strong></td>
-<td>Amaravati, Andhra Pradesh</td>
-</tr>
-<tr>
-<td>⚡ <strong>Intern</strong></td>
-<td>Wipro AI Intern — Top 10% · LoR</td>
-<td>🔬 <strong>Research</strong></td>
-<td>Presented at Halich Congress, Istanbul 2026</td>
-</tr>
-<tr>
-<td>🎯 <strong>Focus</strong></td>
-<td>ML · GenAI · RAG · Computer Vision</td>
-<td>📧 <strong>Email</strong></td>
-<td>arigasaicharan@gmail.com</td>
-</tr>
-</table>
+<p align="center">
+<a href="mailto:arigasaicharan@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/arigasaicharan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/arigasaicharanreddy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00D9C0?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/RAG%20Systems-F59E0B?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Computer%20Vision-E11D48?style=for-the-badge">
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-**Languages**
+I'm a final-year Computer Science Engineering (AI & ML) student at VIT-AP University with hands-on experience in Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), NLP, and Computer Vision.
+
+My work focuses on building production-ready AI systems, deploying ML solutions, and developing intelligent applications that solve real-world problems.
+
+- 🎓 B.Tech CSE (AI & ML), VIT-AP University (2022–2026)
+- 📍 Amaravati, Andhra Pradesh, India
+- 🏆 AWS Certified AI Practitioner
+- 🏆 Oracle Generative AI Professional
+- 🥇 Wipro-Accredited AI Intern (via Edu-versity / AMG Technologies LLP)
+- 🎤 Research Presenter — Halich Congress, Istanbul, Türkiye (2026)
+- 📧 arigasaicharan@gmail.com
+
+---
+
+# 📊 Recruiter Snapshot
+
+| Metric | Value |
+|----------|----------|
+| Degree | B.Tech CSE (AI & ML) |
+| University | VIT-AP University |
+| Graduation | 2026 |
+| AI/ML Projects | 10+ |
+| Internship | Wipro-Accredited AI Intern |
+| Research Presentation | Istanbul 2026 |
+| Certifications | AWS AI Practitioner, Oracle GenAI |
+| Core Expertise | GenAI, RAG, NLP, Computer Vision |
+| Deployment Experience | Docker, AWS, FastAPI, Flask, Streamlit |
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**ML · DL · Computer Vision**
+---
+
+## Machine Learning & Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -45,7 +89,9 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-0052CC?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Generative AI · RAG**
+---
+
+## Generative AI & RAG
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C8C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C8C?style=flat-square)
@@ -54,104 +100,192 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![BERT](https://img.shields.io/badge/BERT-4B0082?style=flat-square)
 
-**Data · Analytics**
+---
+
+## Data Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**Deployment · Cloud**
+---
+
+## Deployment & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Wipro-Accredited AI Intern &nbsp; `Top 10%`
-**Edu-versity / AMG Technologies LLP** &nbsp;·&nbsp; Aug 2025 – Oct 2025
+## 🏆 Wipro-Accredited AI Intern
+### Edu-versity / AMG Technologies LLP
+**Aug 2025 – Oct 2025**
 
-- Engineered end-to-end ML pipelines across 3 projects — reduced evaluation turnaround by **~30%**
-- Delivered **100%** of milestones with a cross-functional team of 5 mentors
-- Awarded **Letter of Recommendation** — ranked in top 10% of intern cohort
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 SmartCareerForge — AI Career Guidance Platform
-`Python` `Streamlit` `LangChain` `RAG` `LangSmith` `ChromaDB` `Docker` `SQLite`
-
-- 15-module AI platform — resume scoring, ATS analysis, skill-gap detection, cover letter generation
-- Dual RAG pipeline via LangChain with **100% LLM tracing** via LangSmith
-- Deployed on Docker + Streamlit Cloud with Adzuna API for live job data
+- Engineered end-to-end ML pipelines across 3 AI projects covering preprocessing, model development, hyperparameter tuning, and deployment.
+- Reduced model evaluation turnaround time by approximately 30%.
+- Collaborated with a cross-functional team of 5 mentors and successfully delivered 100% of project milestones.
+- Ranked among the Top 10% of interns and received a Letter of Recommendation for outstanding performance.
+- Applied industry-standard practices for experimentation, model evaluation, and deployment workflows.
 
 ---
 
-### 💉 COVID-19 Infant Growth Analysis & Prediction &nbsp; `Istanbul 2026`
-`Python` `scikit-learn` `HistGradientBoosting` `XGBoost` `Flask` `Pandas`
+# 🚀 Featured Projects
 
-- Synthesised a **12,000-record** dataset from 15+ peer-reviewed studies
-- Achieved **99.54% accuracy** with HistGradientBoosting
-- Flask web app with **sub-200ms** real-time response · Presented at Halich Congress, Istanbul 2026
+## 🤖 SmartCareerForge — AI Career Intelligence Platform
+
+### Impact
+
+- Developed a 15-module AI platform for career planning and job readiness.
+- Resume scoring and ATS compatibility analysis.
+- Skill-gap detection and personalized career roadmap generation.
+- AI-powered cover letter generation.
+- Built a dual RAG architecture using LangChain and ChromaDB.
+- Implemented semantic skill matching across 60+ mapped skills.
+- Integrated Adzuna API for live job recommendations.
+- Achieved 100% LLM observability using LangSmith tracing.
+- Production deployment using Docker and Streamlit Cloud.
+
+### Tech Stack
+
+Python • Streamlit • LangChain • ChromaDB • LangSmith • Docker • SQLite
 
 ---
 
-### 🔍 Crime Vision · 😶 Face Recognition (PCA+ANN) · 🔢 Digit Recognition · 🫁 Chest X-Ray
-`TensorFlow` `Keras` `OpenCV` `CNN` `Transfer Learning` `scikit-learn`
+## 💉 COVID-19 Infant Growth Analysis & Prediction
 
-- Deep learning pipelines for crime classification, face recognition, MNIST digits, and COVID-19 X-ray detection
+### Research Presentation
+
+Presented at the 10th International Halich Congress on Multidisciplinary Scientific Research, Istanbul, Türkiye (2026)
+
+### Impact
+
+- Created a 12,000-record developmental dataset from 15+ peer-reviewed research studies.
+- Developed an end-to-end machine learning pipeline with advanced preprocessing and feature engineering.
+- Achieved 99.54% prediction accuracy using HistGradientBoosting.
+- Identified key developmental indicators through feature importance analysis.
+- Built a Flask-based web application with sub-200ms prediction latency.
+
+### Tech Stack
+
+Python • Flask • HistGradientBoosting • XGBoost • Pandas • NumPy
 
 ---
 
-## 📊 GitHub Stats
+## 🔍 Crime Vision Classification System
+
+- Developed a deep learning-based crime image classification system.
+- Implemented DenseNet121 transfer learning architecture.
+- Created an interactive prediction interface with Flask.
+- Achieved high classification performance across multiple crime categories.
+
+**Tech:** TensorFlow • Keras • OpenCV • Flask
+
+---
+
+## 😶 Face Recognition System
+
+- Designed a PCA + ANN-based face recognition pipeline.
+- Automated identity prediction from facial images.
+- Implemented feature extraction and classification workflow.
+
+**Tech:** Python • OpenCV • Scikit-Learn
+
+---
+
+## 🫁 Chest X-Ray Disease Detection
+
+- Developed CNN-based disease classification system.
+- Automated chest X-ray analysis and prediction.
+- Integrated preprocessing and prediction pipelines.
+
+**Tech:** TensorFlow • Keras • OpenCV
+
+---
+
+# 📚 Research & Publications
+
+## COVID-19 Pandemic Impact on Infant Developmental Growth
+
+📍 10th International Halich Congress on Multidisciplinary Scientific Research
+
+📅 Istanbul, Türkiye — 2026
+
+- Presented research on developmental changes in infants before, during, and after COVID-19.
+- Built predictive machine learning models using synthesized longitudinal datasets.
+- Conducted comparative analysis across multiple developmental indicators.
+- Demonstrated the effectiveness of machine learning techniques in developmental growth prediction.
+
+---
+
+# 🏆 Certifications
+
+| Certification | Year |
+|---------------|------|
+| AWS Certified AI Practitioner | 2025 |
+| Oracle Generative AI Professional | 2025 |
+| Deloitte Australia Data Analytics Job Simulation | 2026 |
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arigasaicharan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9C0&icon_color=00D9C0&text_color=8B949E&ring_color=00D9C0" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arigasaicharan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9C0&text_color=8B949E" height="160" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arigasaicharanreddy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arigasaicharanreddy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arigasaicharan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9C0&fire=F5A623&currStreakLabel=00D9C0&sideLabels=8B949E&dates=6E7681" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arigasaicharanreddy&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br/>
+---
 
-<div align="center">
+# 🎯 Areas of Interest
 
-| Metric | Value |
-|:---|:---|
-| 📝 Total Contributions (Jun 2025 – Present) | **172** |
-| 📁 Public Repositories (All ML / AI) | **7** |
-| 🔥 Longest Streak | **4 days** (Jul 1 – Jul 4, 2025) |
-
-</div>
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- Computer Vision
+- NLP
+- Data Science
 
 ---
 
-## 🏆 Certifications
+# 🤝 Open to Opportunities
 
-<div align="center">
+I am actively seeking opportunities in:
 
-| Badge | Certification | Year |
-|:---:|:---|:---:|
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | AWS Certified AI Practitioner | 2025 |
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | Oracle Generative AI Professional | 2025 |
-| ![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square) | Deloitte Australia — Data Analytics Job Simulation | 2026 |
+✅ Artificial Intelligence
 
-</div>
+✅ Machine Learning Engineering
+
+✅ Generative AI Engineering
+
+✅ Data Science
+
+✅ Computer Vision
+
+✅ AI Research
 
 ---
-
-<br/>
 
 <p align="center">
-  🚀 Open to <strong>ML / AI / Data Science</strong> opportunities · Let's connect!<br/><br/>
-  💡 <em>"Build things. Break things. Learn fast. Ship faster."</em>
+
+💡 <b>Building intelligent systems that solve real-world problems through AI, data, and innovation.</b>
+
+<br><br>
+
+⭐ If you find my projects interesting, consider starring the repositories.
+
 </p>
+```
