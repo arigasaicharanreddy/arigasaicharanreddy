@@ -1,5 +1,3 @@
-# Full GitHub README (Recruiter-Focused Dark Theme)
-
 ```markdown
 <p align="center">
   <img src="github-banner.svg" alt="Ariga Sai Charan Reddy" width="100%" />
